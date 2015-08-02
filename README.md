@@ -9,3 +9,5 @@ I'm Alex. Python is my main language, but I've done a few projects that I'm prou
 
 ----------------------------------------------------------------
 
+:)
+
